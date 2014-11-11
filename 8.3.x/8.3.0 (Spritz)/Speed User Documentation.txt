@@ -1,0 +1,8 @@
+User Documentation
+This flash program takes the text you enter into the box at the bottom of the screen. It then takes this text and finds the spaces and separates the words. Which it will display one by one at your desired speed with a red letter on the centre of the screen.
+
+To use this app:
+1. Copy and Paste or type the text you want to speed read into the textfield at the bottom of the screen.
+2. Set the desired reading speed (1-10 where 10 is the fastest).
+3. Take your curser to the 'Start Reading' button.
+4. Left Click.
